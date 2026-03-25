@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <title>EuphoriaRust сервер Rust x2</title>
+<h1>EuphoriaRust</h1>
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
